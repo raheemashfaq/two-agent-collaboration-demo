@@ -1,0 +1,7 @@
+crewai==1.15.25
+crewai-tools==1.15.25
+google-genai>=2.20,<3
+fastapi
+uvicorn
+pydantic
+python-dotenv

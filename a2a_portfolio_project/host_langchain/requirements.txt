@@ -1,0 +1,6 @@
+langchain==1.4.3
+langchain-google-genai==4.4.0
+fastapi
+uvicorn
+pydantic
+python-dotenv

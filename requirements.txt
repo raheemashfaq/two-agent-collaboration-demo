@@ -1,0 +1,3 @@
+-r a2a_portfolio_project/host_crewai/requirements.txt
+-r a2a_portfolio_project/host_langchain/requirements.txt
+-r a2a_portfolio_project/client_adk/requirements.txt
